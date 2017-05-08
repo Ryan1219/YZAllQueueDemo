@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		42FEE5641EC049EA001D212B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 42FEE5631EC049EA001D212B /* main.m */; };
 		42FEE5671EC049EA001D212B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 42FEE5661EC049EA001D212B /* AppDelegate.m */; };
-		42FEE56A1EC049EA001D212B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 42FEE5691EC049EA001D212B /* ViewController.m */; };
+		42FEE56A1EC049EA001D212B /* ViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 42FEE5691EC049EA001D212B /* ViewController.mm */; };
 		42FEE56D1EC049EA001D212B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42FEE56B1EC049EA001D212B /* Main.storyboard */; };
 		42FEE5701EC049EA001D212B /* YZAllQueueDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 42FEE56E1EC049EA001D212B /* YZAllQueueDemo.xcdatamodeld */; };
 		42FEE5721EC049EA001D212B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42FEE5711EC049EA001D212B /* Assets.xcassets */; };
@@ -22,7 +22,7 @@
 		42FEE5651EC049EA001D212B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		42FEE5661EC049EA001D212B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		42FEE5681EC049EA001D212B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		42FEE5691EC049EA001D212B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		42FEE5691EC049EA001D212B /* ViewController.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = ViewController.mm; sourceTree = "<group>"; };
 		42FEE56C1EC049EA001D212B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		42FEE56F1EC049EA001D212B /* YZAllQueueDemo.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = YZAllQueueDemo.xcdatamodel; sourceTree = "<group>"; };
 		42FEE5711EC049EA001D212B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -63,7 +63,7 @@
 				42FEE5651EC049EA001D212B /* AppDelegate.h */,
 				42FEE5661EC049EA001D212B /* AppDelegate.m */,
 				42FEE5681EC049EA001D212B /* ViewController.h */,
-				42FEE5691EC049EA001D212B /* ViewController.m */,
+				42FEE5691EC049EA001D212B /* ViewController.mm */,
 				42FEE56B1EC049EA001D212B /* Main.storyboard */,
 				42FEE5711EC049EA001D212B /* Assets.xcassets */,
 				42FEE5731EC049EA001D212B /* LaunchScreen.storyboard */,
@@ -153,7 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				42FEE56A1EC049EA001D212B /* ViewController.m in Sources */,
+				42FEE56A1EC049EA001D212B /* ViewController.mm in Sources */,
 				42FEE5701EC049EA001D212B /* YZAllQueueDemo.xcdatamodeld in Sources */,
 				42FEE5671EC049EA001D212B /* AppDelegate.m in Sources */,
 				42FEE5641EC049EA001D212B /* main.m in Sources */,
